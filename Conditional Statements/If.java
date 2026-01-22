@@ -20,6 +20,7 @@ public class If {
             salary += 5000; // salary=salary+5000
         }
         System.out.println("The salary of employee is: "+salary);
-
+       
+        sc.close();
     }
 }

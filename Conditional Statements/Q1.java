@@ -31,6 +31,8 @@ public class Q1 {
         
        // System.out.println(Math.max(c,Math.max(a, b)));
 
+       sc.close();
+
     }
 }
 

@@ -1,4 +1,6 @@
 import java.util.*;
+import java.util.ArrayList;
+
 public class TicketManager {
     private ArrayList<Ticket>tickets=new ArrayList<>();
     private int maxSeat=10;

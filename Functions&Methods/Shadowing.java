@@ -1,6 +1,6 @@
 public class Shadowing {
 
-    static int x = 90; // Scope of x is inside class Shadowing   /This will be shadowed at line 8
+    static int x = 90; // Scope of x is inside class Shadowing   //This will be shadowed at line 8
 
     public static void main(String[] args) {
         System.out.println(x); // output 90

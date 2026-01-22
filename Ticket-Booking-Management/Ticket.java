@@ -37,7 +37,9 @@ public class Ticket {
 
     }
 
-    public String toString(){
-        return "TicketId:"+TicketId+"Name:"+passengername+"Age:"+age+"From:"+from+"To:"+to+"Seat No:"+"seatno";
-    }
+    public String toString() {
+    return "TicketId: " + this.TicketId + ", Name: " + this.passengername + ", Age: " + this.age +
+           ", From: " + this.from + ", To: " + this.to + ", Seat No: " + this.seatno;
+}
+
 }

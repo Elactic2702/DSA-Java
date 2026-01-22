@@ -16,6 +16,6 @@ public class Q2 {
             System.out.println("Uppercase");
         }
         System.out.println("Character is "+ch);
-
+        sc.close();
     }
 }
